@@ -13,8 +13,8 @@ A modern, responsive portfolio website showcasing my expertise as a **Software E
 
 ## ✨ Key Features
 - **Responsive Design:** Fully optimized for mobile, tablet, and desktop views.
-- **SDET Focused:** Highlights my professional experience at **IDfy** with Cypress, Playwright, and CI/CD pipelines.
-- **Academic Excellence:** Showcases core metrics including my **9.03 CGPA** and technical certifications in Vertex AI and Azure.
+- **SDET Focused:** Highlights my professional experience with Cypress, Playwright, and CI/CD pipelines.
+- **Academic Excellence:** Showcases core metrics including technical certifications in Vertex AI and Azure.
 
 ## 📂 Project Structure
 ```text
